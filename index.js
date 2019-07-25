@@ -1,1 +1,3 @@
-//Your code here
+justInvoke = function() {
+  return this;
+}
